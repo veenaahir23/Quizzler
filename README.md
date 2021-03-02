@@ -1,11 +1,11 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
-# Quizzler Challenge Solution
 
 
 
+# Quizzler Challenge 
+### App Walkthough GIF
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+<img src="walkthrough.gif" width=250><br>
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+
+
